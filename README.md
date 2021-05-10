@@ -18,8 +18,10 @@
 ![Иллюстрация к проекту](https://github.com/WizzWizz/almost-3D-game/blob/master/img/demo4.jpg)
 
 И еще зеркала: 
+
 ![Иллюстрация к проекту](https://github.com/WizzWizz/almost-3D-game/blob/master/img/demo5.jpg)
 
 Онлайн тест:
+
 ![Иллюстрация к проекту](https://github.com/WizzWizz/almost-3D-game/blob/master/img/demo6.jpg)
 
